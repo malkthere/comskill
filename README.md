@@ -1,3 +1,3 @@
 # comskill
 first try for push and pull
-thid ihg kuyukuyfrtuekuytifurhg 
+here i am editing my README file to try fetching it
